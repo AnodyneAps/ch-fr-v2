@@ -7,16 +7,15 @@
         "height": "medium",
         "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
         "show_overlay": true,
-        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
         "image_position": "center center",
         "video_title": "<span class=\"first\">Anodyne®<\/span>",
         "text_size": "medium",
-        "text_description": "<p><strong>Verbessere jetzt Deine Körperhaltung!<\/strong><\/p>",
+        "text_description": "<p><strong>Améliorez votre posture et réduisez les douleurs dorsales<\/strong><\/p>",
         "text_description_size": "medium",
-        "button_label": "Männer",
-        "button_link": "shopify:\/\/collections\/manner",
-        "second_button_label": "Frauen",
-        "second_button_link": "shopify:\/\/collections\/frauen",
+        "button_label": "Femme",
+        "button_link": "shopify:\/\/collections\/femme",
+        "second_button_label": "Homme",
+        "second_button_link": "shopify:\/\/collections\/homme",
         "show_scrolldown": true,
         "show_emark": true,
         "bottom_counter_text": "Wir versenden Ihr Paket in",
@@ -58,7 +57,6 @@
           "settings": {
             "title": "Professioneller Service",
             "description": "Rufen Sie uns an oder kontaktieren Sie uns per Mail",
-            "icon": "shopify:\/\/shop_images\/Customerservice_copy.png",
             "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
           }
         }
@@ -129,8 +127,8 @@
         "1657200190267fd417-0": {
           "type": "Profile-Text",
           "settings": {
-            "title": "Warum haltungskorrigierende Kleidung von Anodyne® wählen?",
-            "code": "<p>Mit <a href=\"\/\"><span style=\"text-decoration:underline\">haltungskorrigierender Kleidung<\/span><\/a> von Anodyne® können Sie auf einfache und unbeschwerte Weise eine bessere Körperhaltung bekommen, sowie Schmerzen und Verspannungen im Nacken, Schultern und Rücken reduzieren. Anodyne® haltungskorrigierende Kleidung hilft Ihnen Ihr Körperbewusstsein zu verbessern und kann sowohl sitzend im Büro oder aktiver auf der Arbeit, auf Reisen oder zum Training verwendet werden. Anodyne® ist ein europäischer Produzent und Händler von das <a href=\"\/collections\/posture-shirt\"><span style=\"text-decoration:underline\">Posture Shirt<\/span><\/a>. Die Technologie wurde entwickelt vom us-amerikanischen Hersteller AlignMed - der einzige Produzent haltungskorrigierender Kleidung, die bei USA´s FDA (Behörde für u.a. Medizinalprodukte), registriert ist. Anodyne® haltungskorrigierende Kleidung ist die einzige Kleidung, die sowohl FDA-registriert und in Europa als medizinisches Hilfsmittel (Klasse 1) MDR\/CE-registriert ist. Dies ist Ihre Garantie dafür, dass Anodyne´s Produkte die Vorschriften für medizinische Hilfsmittel erfüllen.<\/p>",
+            "title": "Pourquoi choisir les vêtements de posture Anodyne® ?",
+            "code": "<p>Grâce aux<a href=\"https:\/\/fr.anodyne.ch\/\"><span style=\"text-decoration:underline\">vêtements correcteurs de posture<\/span><\/a>d'Anodyne®, vous pouvez facilement améliorer votre posture et réduire les douleurs et les tensions dans la nuque, les épaules et le dos. Les vêtements de posture Anodyne® pour hommes et femmes vous aident à prendre conscience de votre posture et à vous rappeler de garder le dos droit. Ils peuvent être utilisés aussi bien au bureau, en voyage, en conduisant, à la maison, qu'en étant actif, que ce soit au travail ou lors d'un entraînement sportif. Anodyne® est le fabricant et distributeur européen de vêtements correcteurs de posture dotés de la technologie développée par la société américaine AlignMed - le seul fabricant de vêtements de posture au monde enregistré auprès de l'agence américaine des produits alimentaires et médicamenteux (FDA). Les vêtements correcteurs de posture Anodyne® sont les seuls en Europe à être à la fois enregistrés auprès de la FDA et à avoir la déclaration CE de conformité en tant que dispositifs médicaux (classe I), ce qui garantit que nos produits répondent aux exigences relatives aux dispositifs médicaux.<\/p>",
             "text_alignment": "text-center",
             "status1_number": "+100.000",
             "status1_label": "Zufriedene Kunden",
@@ -167,11 +165,9 @@
           "type": "quote",
           "settings": {
             "title": "",
-            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops.png",
             "icon": "format_quote",
             "quote": "<p>Ich bin sehr zufrieden mit dem Produkt. Es hilft mir sehr gut bei meine Schulter und Nacken Verspannungen. Ich kann es nur weiter empfehlen<\/p>",
             "author": "Conny G.",
-            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_29d2c67b-7589-41e0-abef-3c0338c3a49f.png",
             "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
@@ -181,11 +177,9 @@
           "type": "quote",
           "settings": {
             "title": "",
-            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops.png",
             "icon": "format_quote",
             "quote": "<p>Superschnelle Lieferung, unkomplizierte Rücksendung und genau so schnell neue Grösse geliefert. Jetzt passt es und hilft echt!<\/p>",
             "author": "Miriam F.",
-            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_29d2c67b-7589-41e0-abef-3c0338c3a49f.png",
             "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
@@ -195,11 +189,9 @@
           "type": "quote",
           "settings": {
             "title": "",
-            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops.png",
             "icon": "format_quote",
             "quote": "<p>Super Product, sehr zufrieden. Lieferung sehr schnell, innerhalb ein Tag. Danke und immer wieder bestellen.<\/p>",
             "author": "Giuseppe P.",
-            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_29d2c67b-7589-41e0-abef-3c0338c3a49f.png",
             "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
@@ -214,7 +206,6 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustedshops_logo_300x100_7167dada-f670-4d71-a50e-b349b60b9a09.png",
         "title": "",
         "subtitle": "",
         "section_style": "section-blank",
@@ -255,24 +246,24 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Checkmark.png",
-            "title": "Die originale haltungskorrigierende Kleidung",
-            "text": "<p>Die originale Anodyne® haltungskorrigierende Kleidung kann nur auf <a href=\"https:\/\/www.anodyne.ch\/\" title=\"https:\/\/www.anodyne.ch\"><span style=\"text-decoration:underline\">www.anodyne.ch <\/span><\/a>erworben werden. Achten Sie darauf, dass es leider viele minderwertige Fälschungen auf dem Markt gibt. Nur ein einziges haltungskorrigierendes Produkt ist sowohl FDA-registriert und als medizinisches Hilfsmittel MDR\/CE-registriert: Anodyne®.<br\/>Seien Sie beim online Shoppen also achtsam auf Fälschungen.<\/p>"
+            "title": "Le vêtement correcteur de posture original",
+            "text": "<p>Les véritables<a href=\"https:\/\/fr.anodyne.ch\/collections\/tous-les-produits\" title=\"Tous les produits\"><span style=\"text-decoration:underline\">vêtements de posture<\/span><\/a>Anodyne® ne peuvent être achetés que sur <a href=\"https:\/\/fr.anodyne.ch\/\" title=\"https:\/\/fr.anodyne.ch\/\"><span style=\"text-decoration:underline\">www.fr.anodyne.ch<\/span><\/a>. Sachez qu'il existe de nombreux produits contrefaits et peu recommandables sur le marché. Un seul type de vêtement de posture est enregistré auprès de la FDA (Agence américaine des produits alimentaires et médicamenteux) et marquée CE comme dispositif médical, ce sont les produits vendus par Anodyne® - soyez donc vigilant lorsque vous commandez sur internet.<\/p>"
           }
         },
         "16595128814be99d47-1": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Smile2.png",
-            "title": "Haltungskorrigierende Kleidung mit 100% Zufriedenheitsgarantie",
-            "text": "<p>Bei Anodyne® bieten wir immer 100% Zufriedenheitsgarantie, 14 Tage gesetzliches Widerrufsrecht und kostenfreie Rücksendung bei Umtausch oder Retoure. Das bedeutet, dass Sie 14 Tage das Produkt testen können, um zu kontrollieren, ob es Ihren Ansprüchen entspricht. Es ist ganz einfach ein Produkt umzutauschen oder zu retournieren. Unser Ziel ist es, dass Sie 100% zufrieden sind.  Genauso war es unser Ziel, mit den bald über 300.000 zufriedenen Kunden in Europa, die das originale Anodyne® Posture Shirt innerhalb der letzten 7 Jahre gekauft haben.<\/p>"
+            "image": "shopify:\/\/shop_images\/Smile.png",
+            "title": "Vêtements de posture avec une garantie satisfait ou remboursé",
+            "text": "<p>Chez Anodyne®, nous offrons toujours une garantie 100% satisfait ou remboursé, un droit de retour de 14 jours et aucun frais pour le retour ou l'échange. Cela signifie que vo annuleringsrecht us pouvez tester votre produit librement durant 14 jours et déterminer s'il répond à vos attentes. Nous joignons une étiquette de retour prépayée à tous les envois, il est donc très facile de retourner ou d’échanger un produit. Notre objectif est que vous soyez 100% satisfait - comme les 300'000 clients en Europe qui ont achetés un produit original Anodyne® au cours des 7 dernières années. Moins d'un client sur 20 retourne définitivement le produit acheté.<\/p>"
           }
         },
         "16595128814be99d47-2": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kinesio2_copy.png",
-            "title": "Von Kinesiotape zu haltungskorrigierender Kleidung",
-            "text": "<p><a href=\"https:\/\/anodyne-ch.myshopify.com\/collections\/alle-produkte\" title=\"Alle Produkte\"><span style=\"text-decoration:underline\">Haltungskorrektur-Kleidung<\/span><\/a> aktiviert die Muskulatur im Rücken, den Schultern und Schulterblätter, ohne dabei die Muskulatur oder Glieder zu schwächen oder einzuschränken. Die Technologie ist vom Kinesiotape inspiriert - eine häufig von Physiotherapeuten & Chiropraktikern angewendete Behandlungsform, um Schmerzen und Verspannungen in Nacken, Schultern und Rücken zu behandeln. Kinesiotape wird oft von professionellen Athleten verwendet, um spezifische Muskelgruppen zu stimulieren und die Körperhaltung zu verbessern.<\/p>"
+            "image": "shopify:\/\/shop_images\/Kinesio.png",
+            "title": "Du kinésio tape au vêtement",
+            "text": "<p><a href=\"https:\/\/anodyne-ch.myshopify.com\/fr\/collections\/\" title=\"Alle Produkte\"><span style=\"text-decoration:underline\">Les vêtements de posture<\/span><\/a>Anodyne® activent les muscles du dos, les épaules et les omoplates sans vous rendre passif ni bloquer vos muscles et vos articulations ou limiter vos mouvements. La technologie derrière ces vêtements redresseurs de dos est inspirée du kinesiotape, une méthode de traitement souvent utilisée par les kinésithérapeutes et les chiropratceurs pour traiter la douleur et les tensions dans la nuque, les épaules et le dos. Le kinesiotaping est également fréquemment utilisé par les athlètes professionnels pour stimuler des groupes musculaires spécifiques et améliorer la posture.<\/p>"
           }
         }
       },
@@ -296,7 +287,6 @@
         "1659513083303253a7-0": {
           "type": "video",
           "settings": {
-            "video_cover_image": "shopify:\/\/shop_images\/cover_about.jpg",
             "title": "",
             "video_url": "https:\/\/youtu.be\/c3tAK7gGKbo",
             "animated_button": true
