@@ -1,0 +1,386 @@
+{
+  "sections": {
+    "16565958709e259b85": {
+      "type": "hero-video",
+      "settings": {
+        "page_width": "full_width",
+        "height": "medium",
+        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+        "show_overlay": true,
+        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+        "image_position": "center center",
+        "video_title": "<span class=\"first\">Anodyne®<\/span>",
+        "text_size": "medium",
+        "text_description": "<p><strong>Verbessere jetzt Deine Körperhaltung!<\/strong><\/p>",
+        "text_description_size": "medium",
+        "button_label": "Männer",
+        "button_link": "shopify:\/\/collections\/manner",
+        "second_button_label": "Frauen",
+        "second_button_link": "shopify:\/\/collections\/frauen",
+        "show_scrolldown": true,
+        "show_emark": true,
+        "bottom_counter_text": "Wir versenden Ihr Paket in",
+        "show_bottom_counter": true
+      }
+    },
+    "1656942069989ae2c9": {
+      "type": "feature-services",
+      "blocks": {
+        "1656942069c276e07d-0": {
+          "type": "service",
+          "settings": {
+            "title": "Schnelle Lieferung",
+            "description": "GRATIS Versand für Einkäufe über 59 CHF",
+            "icon": "shopify:\/\/shop_images\/Truck.png",
+            "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+          }
+        },
+        "1656942069c276e07d-1": {
+          "type": "service",
+          "settings": {
+            "title": "Kostenlose Rückgabe",
+            "description": "Der Rückversand bei Anodyne® ist kostenfrei",
+            "icon": "shopify:\/\/shop_images\/Returns.png",
+            "uspLinkUrl": "shopify:\/\/pages\/returportal"
+          }
+        },
+        "342df7ed-a5e0-495e-b2aa-88ec2359c324": {
+          "type": "service",
+          "settings": {
+            "title": "14 Tage Rückgaberecht",
+            "description": "Testen Sie unsere Produkte in aller Ruhe während 14 Tagen",
+            "icon": "shopify:\/\/shop_images\/Checkmark.png",
+            "uspLinkUrl": "https:\/\/www.anodyne.dk\/pages\/hvem-er-vi"
+          }
+        },
+        "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70": {
+          "type": "service",
+          "settings": {
+            "title": "Professioneller Service",
+            "description": "Rufen Sie uns an oder kontaktieren Sie uns per Mail",
+            "icon": "shopify:\/\/shop_images\/Customerservice_copy.png",
+            "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+          }
+        }
+      },
+      "block_order": [
+        "1656942069c276e07d-0",
+        "1656942069c276e07d-1",
+        "342df7ed-a5e0-495e-b2aa-88ec2359c324",
+        "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1654180360d9664fc4": {
+      "type": "featured-collections",
+      "blocks": {
+        "1654180360b14d67ac-2": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "posture-shirt",
+            "btn__shopnow": "Shop"
+          }
+        },
+        "1654180360b14d67ac-0": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "ruckenstutze",
+            "btn__shopnow": "Shop"
+          }
+        },
+        "1654180360b14d67ac-1": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "hilfsmittel",
+            "btn__shopnow": "Shop"
+          }
+        }
+      },
+      "block_order": [
+        "1654180360b14d67ac-2",
+        "1654180360b14d67ac-0",
+        "1654180360b14d67ac-1"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "section_height": "medium",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "shopify:\/\/collections",
+        "button_style": "btn--primary",
+        "slider_featured_collections": false,
+        "arrows": false,
+        "dots": false
+      }
+    },
+    "1657200190f72ca1c0": {
+      "type": "profile-text",
+      "blocks": {
+        "1657200190267fd417-0": {
+          "type": "Profile-Text",
+          "settings": {
+            "title": "Warum haltungskorrigierende Kleidung von Anodyne® wählen?",
+            "code": "<p>Mit <a href=\"\/\"><span style=\"text-decoration:underline\">haltungskorrigierender Kleidung<\/span><\/a> von Anodyne® können Sie auf einfache und unbeschwerte Weise eine bessere Körperhaltung bekommen, sowie Schmerzen und Verspannungen im Nacken, Schultern und Rücken reduzieren. Anodyne® haltungskorrigierende Kleidung hilft Ihnen Ihr Körperbewusstsein zu verbessern und kann sowohl sitzend im Büro oder aktiver auf der Arbeit, auf Reisen oder zum Training verwendet werden. Anodyne® ist ein europäischer Produzent und Händler von das <a href=\"\/collections\/posture-shirt\"><span style=\"text-decoration:underline\">Posture Shirt<\/span><\/a>. Die Technologie wurde entwickelt vom us-amerikanischen Hersteller AlignMed - der einzige Produzent haltungskorrigierender Kleidung, die bei USA´s FDA (Behörde für u.a. Medizinalprodukte), registriert ist. Anodyne® haltungskorrigierende Kleidung ist die einzige Kleidung, die sowohl FDA-registriert und in Europa als medizinisches Hilfsmittel (Klasse 1) MDR\/CE-registriert ist. Dies ist Ihre Garantie dafür, dass Anodyne´s Produkte die Vorschriften für medizinische Hilfsmittel erfüllen.<\/p>",
+            "text_alignment": "text-center",
+            "status1_number": "+100.000",
+            "status1_label": "Zufriedene Kunden",
+            "status1_link": "shopify:\/\/collections\/all",
+            "status2_number": "+500.000",
+            "status2_label": "Weltweit verkaufte Produkte",
+            "status2_link": "shopify:\/\/collections\/all",
+            "status3_number": "+8",
+            "status3_label": "Jahre Erfahrung",
+            "status3_link": "shopify:\/\/collections\/all",
+            "status4_number": "+80",
+            "status4_label": "Verfügbare Produkte",
+            "status4_link": "shopify:\/\/collections\/all",
+            "vendor_image_position": "center center",
+            "vendor_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657200190267fd417-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": false,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1659512569f1cf3047": {
+      "type": "quotes",
+      "blocks": {
+        "1659512569137a920e-0": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops.png",
+            "icon": "format_quote",
+            "quote": "<p>Ich bin sehr zufrieden mit dem Produkt. Es hilft mir sehr gut bei meine Schulter und Nacken Verspannungen. Ich kann es nur weiter empfehlen<\/p>",
+            "author": "Conny G.",
+            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_29d2c67b-7589-41e0-abef-3c0338c3a49f.png",
+            "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "1659512569137a920e-1": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops.png",
+            "icon": "format_quote",
+            "quote": "<p>Superschnelle Lieferung, unkomplizierte Rücksendung und genau so schnell neue Grösse geliefert. Jetzt passt es und hilft echt!<\/p>",
+            "author": "Miriam F.",
+            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_29d2c67b-7589-41e0-abef-3c0338c3a49f.png",
+            "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "1659512569137a920e-2": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops.png",
+            "icon": "format_quote",
+            "quote": "<p>Super Product, sehr zufrieden. Lieferung sehr schnell, innerhalb ein Tag. Danke und immer wieder bestellen.<\/p>",
+            "author": "Giuseppe P.",
+            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_29d2c67b-7589-41e0-abef-3c0338c3a49f.png",
+            "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1659512569137a920e-0",
+        "1659512569137a920e-1",
+        "1659512569137a920e-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustedshops_logo_300x100_7167dada-f670-4d71-a50e-b349b60b9a09.png",
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "quote_width": "60",
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
+      }
+    },
+    "1659512748326b5967": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Beliebte Produkte",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "posture-shirt",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": true,
+        "button_label": "Mehr sehen",
+        "button_link": "shopify:\/\/collections\/alle-produkte",
+        "button_style": "btn--primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
+      }
+    },
+    "16595128814470f681": {
+      "type": "featured-icons",
+      "blocks": {
+        "16595128814be99d47-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Checkmark.png",
+            "title": "Die originale haltungskorrigierende Kleidung",
+            "text": "<p>Die originale Anodyne® haltungskorrigierende Kleidung kann nur auf <a href=\"https:\/\/www.anodyne.ch\/\" title=\"https:\/\/www.anodyne.ch\"><span style=\"text-decoration:underline\">www.anodyne.ch <\/span><\/a>erworben werden. Achten Sie darauf, dass es leider viele minderwertige Fälschungen auf dem Markt gibt. Nur ein einziges haltungskorrigierendes Produkt ist sowohl FDA-registriert und als medizinisches Hilfsmittel MDR\/CE-registriert: Anodyne®.<br\/>Seien Sie beim online Shoppen also achtsam auf Fälschungen.<\/p>"
+          }
+        },
+        "16595128814be99d47-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Smile2.png",
+            "title": "Haltungskorrigierende Kleidung mit 100% Zufriedenheitsgarantie",
+            "text": "<p>Bei Anodyne® bieten wir immer 100% Zufriedenheitsgarantie, 14 Tage gesetzliches Widerrufsrecht und kostenfreie Rücksendung bei Umtausch oder Retoure. Das bedeutet, dass Sie 14 Tage das Produkt testen können, um zu kontrollieren, ob es Ihren Ansprüchen entspricht. Es ist ganz einfach ein Produkt umzutauschen oder zu retournieren. Unser Ziel ist es, dass Sie 100% zufrieden sind.  Genauso war es unser Ziel, mit den bald über 300.000 zufriedenen Kunden in Europa, die das originale Anodyne® Posture Shirt innerhalb der letzten 7 Jahre gekauft haben.<\/p>"
+          }
+        },
+        "16595128814be99d47-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kinesio2_copy.png",
+            "title": "Von Kinesiotape zu haltungskorrigierender Kleidung",
+            "text": "<p><a href=\"https:\/\/anodyne-ch.myshopify.com\/collections\/alle-produkte\" title=\"Alle Produkte\"><span style=\"text-decoration:underline\">Haltungskorrektur-Kleidung<\/span><\/a> aktiviert die Muskulatur im Rücken, den Schultern und Schulterblätter, ohne dabei die Muskulatur oder Glieder zu schwächen oder einzuschränken. Die Technologie ist vom Kinesiotape inspiriert - eine häufig von Physiotherapeuten & Chiropraktikern angewendete Behandlungsform, um Schmerzen und Verspannungen in Nacken, Schultern und Rücken zu behandeln. Kinesiotape wird oft von professionellen Athleten verwendet, um spezifische Muskelgruppen zu stimulieren und die Körperhaltung zu verbessern.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16595128814be99d47-0",
+        "16595128814be99d47-1",
+        "16595128814be99d47-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-default",
+        "text_align": ""
+      }
+    },
+    "16595130833070b2f1": {
+      "type": "featured-video",
+      "blocks": {
+        "1659513083303253a7-0": {
+          "type": "video",
+          "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/cover_about.jpg",
+            "title": "",
+            "video_url": "https:\/\/youtu.be\/c3tAK7gGKbo",
+            "animated_button": true
+          }
+        }
+      },
+      "block_order": [
+        "1659513083303253a7-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "Wer ist Anodyne®?",
+        "subtitle": "Sehen Sie sich unser Präsentationsvideo an",
+        "section_style": "section-default"
+      }
+    },
+    "16595131862acfe816": {
+      "type": "featured-accordions",
+      "blocks": {
+        "1659513186ec7e9cae-0": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Patentierte NeuroBand™-Technologie in haltungskorrigierender Kleidung",
+            "accordion__inner-title": "",
+            "accordion__description": "Anodyne® haltungskorrigierende Bekleidung ist hergestellt aus einer einzigartigen Kombination aus Spandex, Polyester und Nylon – eine einzigartige Zusammensetzung die ein widerstandsfähiges und atmungsaktives Posture Shirt™ ergibt, welches seine Elastizität bei täglichem Gebrauch bewahrt. Designed mit der patentierten NeuroBand™-Technologie, inspiriert von Kinesiotape und basierend auf wissenschaftlicher Forschung der menschlichen Physiologie. Die Kleidung wurde auf eine einzigartige Weise designed, um die kontrahierenden Eigenschaften der Muskulatur widerzuspiegeln und eine aufrechtere Körperhaltung zu unterstützen.",
+            "accordion__buttontext": "Kaufe posture shirt",
+            "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "1659513186ec7e9cae-1": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Haltungskorrigierende Kleidung nach Ihren Bedürfnissen",
+            "accordion__inner-title": "",
+            "accordion__description": "Haltungskorrigierende Kleidung von Anodyne® eignet sich als Unterstützung in diversen Alltagssituationen. Wir vertreiben haltungskorrigierende T-Shirts, BH´s und Westen, die alle entwickelt wurden, um die Blutzirkulation anzuregen und die Muskulatur zu aktivieren, und dadurch zu einer optimalen Körperhaltung zu verhelfen. Anodyne® haltungskorrigierende Kleidung kann jederzeit genutzt werden: im Office, beim Training, Einkaufen, Spazierengehen, Saubermachen und diversen anderen Aktivitäten. Um den optimalen Effekt Ihrer Anodyne®-haltungskorrigierender Kleidung zu erhalten, empfehlen wir die beiliegende Gebrauchsanweisung gründlich zu lesen. So haben Sie optimale Voraussetzungen das beste Ergebnis mit ihrem Anodyne®-Produkt zu erreichen.",
+            "accordion__buttontext": "Siehe Produkte zur Haltungskorrektur",
+            "accordion__LinkUrl": "shopify:\/\/collections\/alle-produkter"
+          }
+        },
+        "3c3108af-7850-4cad-a838-88ed336c741f": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Auch für Personen mit Verletzungen",
+            "accordion__inner-title": "",
+            "accordion__description": "Haben Sie Beschwerden auf Grund von Verletzungen, z.B. Bandscheibenvorfall, Skoliose, Gicht oder ähnlichem, können Sie gut haltungskorrigierende Kleidung von Anodyne nutzen. Sollte die Verletzung akut sein, sprechen Sie bitte zuerst mit Ihrem Arzt oder Spezialisten. In manchen Fällen kann die haltungskorrigierende Weste von Anodyne (MyLign & SpinalQ Pro) von Vorteil sein, da diese Produkte eine stärkere Stützfunktion haben. Es ist ausgesprochen wichtig, haltungskorrigierende Kleidung in der optimalen Größe zu wählen, da sonst der optimale Effekt nicht erreicht wird. Kontrollieren Sie daher unsere Größenangaben. Zögern Sie nicht, unseren Kundenservice zu kontaktieren, der Sie gerne zu Fragen der Größe und Produktwahl berät.",
+            "accordion__buttontext": "Se produktudvalg",
+            "accordion__LinkUrl": "shopify:\/\/collections\/alle-produkter"
+          }
+        }
+      },
+      "block_order": [
+        "1659513186ec7e9cae-0",
+        "1659513186ec7e9cae-1",
+        "3c3108af-7850-4cad-a838-88ed336c741f"
+      ],
+      "settings": {
+        "title": "Haltungskorrigierende Kleidung von Anodyne®",
+        "section_style": "section-blank"
+      }
+    },
+    "1659519187d1c8a097": {
+      "type": "newsletter",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Abonnieren Sie unseren Newsletter",
+        "subtitle": "Erhalten Sie regelmäßig E-Mails mit neuen Produkten, aktuellen Angeboten und Gewinnspielen",
+        "section_style": "section-default",
+        "customer_tag": "newsletter"
+      }
+    }
+  },
+  "order": [
+    "16565958709e259b85",
+    "1656942069989ae2c9",
+    "1654180360d9664fc4",
+    "1657200190f72ca1c0",
+    "1659512569f1cf3047",
+    "1659512748326b5967",
+    "16595128814470f681",
+    "16595130833070b2f1",
+    "16595131862acfe816",
+    "1659519187d1c8a097"
+  ]
+}
