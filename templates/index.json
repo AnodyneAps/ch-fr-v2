@@ -28,8 +28,8 @@
         "1656942069c276e07d-0": {
           "type": "service",
           "settings": {
-            "title": "Schnelle Lieferung",
-            "description": "GRATIS Versand für Einkäufe über 59 CHF",
+            "title": "Livraison rapide",
+            "description": "Livraison gratuite plus de 59 CHF",
             "icon": "shopify:\/\/shop_images\/Truck.png",
             "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
           }
@@ -37,8 +37,8 @@
         "1656942069c276e07d-1": {
           "type": "service",
           "settings": {
-            "title": "Kostenlose Rückgabe",
-            "description": "Der Rückversand bei Anodyne® ist kostenfrei",
+            "title": "Retour et échanges gratuits",
+            "description": "Nous incluons une étiquette de retour gratuite",
             "icon": "shopify:\/\/shop_images\/Returns.png",
             "uspLinkUrl": "shopify:\/\/pages\/returportal"
           }
@@ -46,8 +46,8 @@
         "342df7ed-a5e0-495e-b2aa-88ec2359c324": {
           "type": "service",
           "settings": {
-            "title": "14 Tage Rückgaberecht",
-            "description": "Testen Sie unsere Produkte in aller Ruhe während 14 Tagen",
+            "title": "Politique de retours sous 14 jours",
+            "description": "Vous pouvez librement tester votre produit et vérifier s'il répond à vos attentes",
             "icon": "shopify:\/\/shop_images\/Checkmark.png",
             "uspLinkUrl": "https:\/\/www.anodyne.dk\/pages\/hvem-er-vi"
           }
@@ -55,8 +55,9 @@
         "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70": {
           "type": "service",
           "settings": {
-            "title": "Professioneller Service",
-            "description": "Rufen Sie uns an oder kontaktieren Sie uns per Mail",
+            "title": "Service professionnel",
+            "description": "Appelez-nous ou contactez-nous par e-mail",
+            "icon": "shopify:\/\/shop_images\/Customerservice.png",
             "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
           }
         }
@@ -86,7 +87,7 @@
           "type": "collection",
           "settings": {
             "title": "",
-            "collection": "ruckenstutze",
+            "collection": "soutien-du-dos",
             "btn__shopnow": "Shop"
           }
         },
@@ -94,7 +95,7 @@
           "type": "collection",
           "settings": {
             "title": "",
-            "collection": "hilfsmittel",
+            "collection": "autres-produits",
             "btn__shopnow": "Shop"
           }
         }
@@ -165,9 +166,11 @@
           "type": "quote",
           "settings": {
             "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops_60x60_crop_center_afdf2d90-a8ab-4887-a48f-7b219a4ae639.png",
             "icon": "format_quote",
-            "quote": "<p>Ich bin sehr zufrieden mit dem Produkt. Es hilft mir sehr gut bei meine Schulter und Nacken Verspannungen. Ich kann es nur weiter empfehlen<\/p>",
+            "quote": "<p><em>Je suis très satisfait du produit. Il m'aide très bien avec mes tensions d'épaule et de cou. Je ne peux que le recommander<\/em><\/p>",
             "author": "Conny G.",
+            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_128x32_ef1ce6ee-62fc-47f8-9a06-0172a3b11de0.png",
             "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
@@ -177,9 +180,11 @@
           "type": "quote",
           "settings": {
             "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops_60x60_crop_center_afdf2d90-a8ab-4887-a48f-7b219a4ae639.png",
             "icon": "format_quote",
-            "quote": "<p>Superschnelle Lieferung, unkomplizierte Rücksendung und genau so schnell neue Grösse geliefert. Jetzt passt es und hilft echt!<\/p>",
+            "quote": "<p><em>Livraison super rapide, retour sans complication et nouvelle taille livrée tout aussi rapidement. Maintenant, il s'adapte et aide vraiment !<\/em><\/p>",
             "author": "Miriam F.",
+            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_128x32_ef1ce6ee-62fc-47f8-9a06-0172a3b11de0.png",
             "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
@@ -189,9 +194,11 @@
           "type": "quote",
           "settings": {
             "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops_60x60_crop_center_afdf2d90-a8ab-4887-a48f-7b219a4ae639.png",
             "icon": "format_quote",
-            "quote": "<p>Super Product, sehr zufrieden. Lieferung sehr schnell, innerhalb ein Tag. Danke und immer wieder bestellen.<\/p>",
+            "quote": "<p><em>Super produit, très satisfait. Livraison très rapide, en un jour. Merci et je commanderai encore et encore.<br\/>            <\/em><\/p>",
             "author": "Giuseppe P.",
+            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_128x32_128x32_ef1ce6ee-62fc-47f8-9a06-0172a3b11de0.png",
             "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
@@ -221,7 +228,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Beliebte Produkte",
+        "title": "Produits les plus vendus",
         "subtitle": "",
         "section_style": "section-blank",
         "home_featured_products": "posture-shirt",
@@ -229,7 +236,7 @@
         "desktop_grid": "4",
         "mobile_grid": "2",
         "show_view_all": true,
-        "button_label": "Mehr sehen",
+        "button_label": "voir tous les produits",
         "button_link": "shopify:\/\/collections\/alle-produkte",
         "button_style": "btn--primary",
         "slider_related_products": true,
@@ -300,8 +307,8 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "full_width": false,
-        "title": "Wer ist Anodyne®?",
-        "subtitle": "Sehen Sie sich unser Präsentationsvideo an",
+        "title": "Á propos Anodyne",
+        "subtitle": "Voir notre vidéo de présentation",
         "section_style": "section-default"
       }
     },
@@ -311,30 +318,30 @@
         "1659513186ec7e9cae-0": {
           "type": "Accordion",
           "settings": {
-            "accordion_title": "Patentierte NeuroBand™-Technologie in haltungskorrigierender Kleidung",
+            "accordion_title": "Pourquoi choisir les vêtements de posture Anodyne® ?",
             "accordion__inner-title": "",
-            "accordion__description": "Anodyne® haltungskorrigierende Bekleidung ist hergestellt aus einer einzigartigen Kombination aus Spandex, Polyester und Nylon – eine einzigartige Zusammensetzung die ein widerstandsfähiges und atmungsaktives Posture Shirt™ ergibt, welches seine Elastizität bei täglichem Gebrauch bewahrt. Designed mit der patentierten NeuroBand™-Technologie, inspiriert von Kinesiotape und basierend auf wissenschaftlicher Forschung der menschlichen Physiologie. Die Kleidung wurde auf eine einzigartige Weise designed, um die kontrahierenden Eigenschaften der Muskulatur widerzuspiegeln und eine aufrechtere Körperhaltung zu unterstützen.",
-            "accordion__buttontext": "Kaufe posture shirt",
+            "accordion__description": "Grâce aux vêtements correcteurs de posture d'Anodyne®, vous pouvez facilement améliorer votre posture et réduire les douleurs et les tensions dans la nuque, les épaules et le dos. Les vêtements de posture Anodyne® pour hommes et femmes vous aident à prendre conscience de votre posture et à vous rappeler de garder le dos droit. Ils peuvent être utilisés aussi bien au bureau, en voyage, en conduisant, à la maison, qu'en étant actif, que ce soit au travail ou lors d'un entraînement sportif. Anodyne® est le fabricant et distributeur européen de vêtements correcteurs de posture dotés de la technologie développée par la société américaine AlignMed - le seul fabricant de vêtements de posture au monde enregistré auprès de l'agence américaine des produits alimentaires et médicamenteux (FDA). Les vêtements correcteurs de posture Anodyne® sont les seuls en Europe à être à la fois enregistrés auprès de la FDA et à avoir la déclaration CE de conformité en tant que dispositifs médicaux (classe I), ce qui garantit que nos produits répondent aux exigences relatives aux dispositifs médicaux.",
+            "accordion__buttontext": "SHOp",
             "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
           }
         },
         "1659513186ec7e9cae-1": {
           "type": "Accordion",
           "settings": {
-            "accordion_title": "Haltungskorrigierende Kleidung nach Ihren Bedürfnissen",
+            "accordion_title": "Technologie NeuroBand™ brevetée intégrée aux vêtements correcteurs de posture Anodyne®",
             "accordion__inner-title": "",
-            "accordion__description": "Haltungskorrigierende Kleidung von Anodyne® eignet sich als Unterstützung in diversen Alltagssituationen. Wir vertreiben haltungskorrigierende T-Shirts, BH´s und Westen, die alle entwickelt wurden, um die Blutzirkulation anzuregen und die Muskulatur zu aktivieren, und dadurch zu einer optimalen Körperhaltung zu verhelfen. Anodyne® haltungskorrigierende Kleidung kann jederzeit genutzt werden: im Office, beim Training, Einkaufen, Spazierengehen, Saubermachen und diversen anderen Aktivitäten. Um den optimalen Effekt Ihrer Anodyne®-haltungskorrigierender Kleidung zu erhalten, empfehlen wir die beiliegende Gebrauchsanweisung gründlich zu lesen. So haben Sie optimale Voraussetzungen das beste Ergebnis mit ihrem Anodyne®-Produkt zu erreichen.",
-            "accordion__buttontext": "Siehe Produkte zur Haltungskorrektur",
+            "accordion__description": "Les vêtements de posture Anodyne® sont composés d’une association unique d'élasthanne, de polyester et de nylon, pour obtenir des produits solides et respirants qui conservent leur élasticité lors de l’utilisation et rendent le vêtement confortable. Le design utilise la technologie brevetée NeuroBand™, inspirée du kinesiotape - les fameuses bandes adhésives de kinésiologie - et basée sur des recherches scientifiques approfondies sur la physiologie humaine. Le vêtement est conçu pour refléter les propriétés de contraction et extension de la musculature, favorisant ainsi une posture adaptée.",
+            "accordion__buttontext": "shop",
             "accordion__LinkUrl": "shopify:\/\/collections\/alle-produkter"
           }
         },
         "3c3108af-7850-4cad-a838-88ed336c741f": {
           "type": "Accordion",
           "settings": {
-            "accordion_title": "Auch für Personen mit Verletzungen",
+            "accordion_title": "Vêtement de posture adapté à vos besoins",
             "accordion__inner-title": "",
-            "accordion__description": "Haben Sie Beschwerden auf Grund von Verletzungen, z.B. Bandscheibenvorfall, Skoliose, Gicht oder ähnlichem, können Sie gut haltungskorrigierende Kleidung von Anodyne nutzen. Sollte die Verletzung akut sein, sprechen Sie bitte zuerst mit Ihrem Arzt oder Spezialisten. In manchen Fällen kann die haltungskorrigierende Weste von Anodyne (MyLign & SpinalQ Pro) von Vorteil sein, da diese Produkte eine stärkere Stützfunktion haben. Es ist ausgesprochen wichtig, haltungskorrigierende Kleidung in der optimalen Größe zu wählen, da sonst der optimale Effekt nicht erreicht wird. Kontrollieren Sie daher unsere Größenangaben. Zögern Sie nicht, unseren Kundenservice zu kontaktieren, der Sie gerne zu Fragen der Größe und Produktwahl berät.",
-            "accordion__buttontext": "Se produktudvalg",
+            "accordion__description": "Les vêtements de posture Anodyne® peuvent être utilisés par tous. Nous vendons des t-shirts de posture, des brassières soutien de dos et des vestes correctrices de posture, tous conçus pour aider à activer les muscles et la circulation sanguine, rappelant ainsi au corps d'adopter une posture plus optimale. Les vêtements redresseurs de dos d'Anodyne® peuvent être portés à tout moment - au bureau, assis devant un écran, pendant le sport, lorsque vous faites des courses, de la randonnée, le ménage ou toute autres activité. Pour tirer le meilleur parti des vêtements de posture Anodyne®, nous vous recommandons de lire attentivement les instructions jointes à votre colis pour vous assurer d'avoir les conditions idéales pour obtenir un effet optimal de nos produits.",
+            "accordion__buttontext": "shop",
             "accordion__LinkUrl": "shopify:\/\/collections\/alle-produkter"
           }
         }
@@ -345,7 +352,7 @@
         "3c3108af-7850-4cad-a838-88ed336c741f"
       ],
       "settings": {
-        "title": "Haltungskorrigierende Kleidung von Anodyne®",
+        "title": "Vêtements de posture Anodyne®",
         "section_style": "section-blank"
       }
     },
@@ -354,8 +361,8 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Abonnieren Sie unseren Newsletter",
-        "subtitle": "Erhalten Sie regelmäßig E-Mails mit neuen Produkten, aktuellen Angeboten und Gewinnspielen",
+        "title": "S'abonner à notre newsletter",
+        "subtitle": "Restez au courant de nos dernières offres et promotions ! Inscrivez-vous maintenant et recevez la newsletter d'Anodyne®",
         "section_style": "section-default",
         "customer_tag": "newsletter"
       }
