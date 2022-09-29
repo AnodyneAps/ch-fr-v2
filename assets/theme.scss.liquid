@@ -1171,23 +1171,23 @@ $class-type: unquote(".");
 // Push
 @mixin push-setup($namespace: "") {
   // Fifths
-  #{$class-type}push--#{$namespace}one-fifth       {left: 20%}
-  #{$class-type}push--#{$namespace}two-fifths      {left: 40%}
-  #{$class-type}push--#{$namespace}three-fifths    {left: 60%}
-  #{$class-type}push--#{$namespace}four-fifths     {left: 80%}
+  #{$class-type}push--#{$namespace}one-fifth       {left: 20% }
+  #{$class-type}push--#{$namespace}two-fifths      {left: 40% }
+  #{$class-type}push--#{$namespace}three-fifths    {left: 60% }
+  #{$class-type}push--#{$namespace}four-fifths     {left: 80% }
 
   // Twelfths
-  #{$class-type}push--#{$namespace}one-twelfth     {left: 8.333%}
-  #{$class-type}push--#{$namespace}two-twelfths    {left: 16.666%}
-  #{$class-type}push--#{$namespace}three-twelfths  {left: 25%}
-  #{$class-type}push--#{$namespace}four-twelfths   {left: 33.333%}
-  #{$class-type}push--#{$namespace}five-twelfths   {left: 41.666%}
-  #{$class-type}push--#{$namespace}six-twelfths    {left: 50%}
-  #{$class-type}push--#{$namespace}seven-twelfths  {left: 58.333%}
-  #{$class-type}push--#{$namespace}eight-twelfths  {left: 66.666%}
-  #{$class-type}push--#{$namespace}nine-twelfths   {left: 75%}
-  #{$class-type}push--#{$namespace}ten-twelfths    {left: 83.333%}
-  #{$class-type}push--#{$namespace}eleven-twelfths {left: 91.666%}
+  #{$class-type}push--#{$namespace}one-twelfth     {left: 8.333% }
+  #{$class-type}push--#{$namespace}two-twelfths    {left: 16.666% }
+  #{$class-type}push--#{$namespace}three-twelfths  {left: 25% }
+  #{$class-type}push--#{$namespace}four-twelfths   {left: 33.333% }
+  #{$class-type}push--#{$namespace}five-twelfths   {left: 41.666% }
+  #{$class-type}push--#{$namespace}six-twelfths    {left: 50% }
+  #{$class-type}push--#{$namespace}seven-twelfths  {left: 58.333% }
+  #{$class-type}push--#{$namespace}eight-twelfths  {left: 66.666% }
+  #{$class-type}push--#{$namespace}nine-twelfths   {left: 75% } 
+  #{$class-type}push--#{$namespace}ten-twelfths    {left: 83.333% }
+  #{$class-type}push--#{$namespace}eleven-twelfths {left: 91.666% }
 }
 
 // Responsive helper classes
@@ -12026,9 +12026,9 @@ body:not(.dbtfy-wish_list-destroy) {
         display: flex;
         justify-content: flex-start;
         align-items: center;
-        padding: 4px 0;
+        padding: 4px -1px;
         gap:4px;
-        font-size:0.855rem;
+        font-size:0.755rem;
         @include screenUp($postSmall){
           gap:15px;
           font-size:1rem;
@@ -12038,7 +12038,10 @@ body:not(.dbtfy-wish_list-destroy) {
         .qb-saved-amount{
           background-color: lighten($cAccent, 15%);
           color: $cText;
-          font-weight:400;
+          font-weight:300;
+          @include screenDown($postSmall){
+            font-size: 0.755rem;
+          }
         }
         .text-money,
         .text-sale{
