@@ -7,7 +7,7 @@
           "type": "html",
           "settings": {
             "title": "",
-            "code": "<div style=\"margin-bottom:-110px\">\n<h1>Øvelser til udspændning af ryg og nakke<\/h1>\n<p>Døjer du med nakkesmerter eller spændinger skulder eller ryg? I samarbejde med kiropraktor og klinikejer Michael Justad fra JustHealth, har vi i videoen herunder samlet 5 nemme øvelser, som du kan lave på under 5 minutter – på kontoret eller hjemme.<\/p>\n<\/div>",
+            "code": "<div style=\"margin-bottom:-110px\">\n<h1>Exercices d’étirement du dos et de la nuque<\/h1>\n<p>Vous souffrez de douleurs cervicales ou de tensions dans les épaules et le dos ? En collaboration avec le chiropracteur et propriétaire de clinique Michael Justad de JustHealth, nous avons réuni dans la vidéo ci-dessous 5 exercices simples à effectuer au bureau ou chez vous. Ils ne vous prendront que 5 minutes de votre temps.<\/p>\n<\/div>",
             "column_width": 12,
             "column_width_mobile": 12,
             "text_alignment": "text-center"
@@ -33,8 +33,8 @@
           "settings": {
             "video_cover_image": "shopify:\/\/shop_images\/Cover_video.jpg",
             "title": "",
-            "video_url": "https:\/\/youtu.be\/cwrhb8dS56U",
-            "animated_button": true
+            "video_url": "https:\/\/youtu.be\/RozA9sXOX3o",
+            "animated_button": false
           }
         }
       },
@@ -55,14 +55,13 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "image": "shopify:\/\/shop_images\/Working_posture.jpg",
-        "image_link": "",
+        "image": "shopify:\/\/shop_images\/Working_posture_1296x1296_5c41df7c-f75d-419f-8961-490c16d295b4.jpg",
         "section_style": "section-blank",
-        "text_size": "medium",
+        "text_size": "large",
         "image_alignement": "right",
         "text_alignment": "",
-        "title": "Optimér din arbejdsstilling på kontoret",
-        "html_text": "<p>Er du en af dem, der døjer med spændinger i nakke, skuldre eller ryg, fordi du har et primært stillesiddende arbejde, så hjælper de 5 afspændingsøvelser dig godt på vej til at lindre og forebygge dette i hverdagen. Det kan samtidig være en fordel at se på, om du kan optimere din arbejdsstilling, når du sidder ved skrivebordet.<\/p><strong><br>Følg disse råd til en korrekt arbejdsstilling ved skrivebord:<\/strong><div style=\"padding-left:20px\">\n<p><\/p>\n<ul>\n<li><p>Sid med ret ryg, skub bækkenet ind og træk skuldrene tilbage – set fra siden skal rygsøjlen være i en S-kurven<\/p><\/li>\n<li><p>Ben og knæ skal være i en 90 graders vinkel eller derover<\/p><\/li>\n<li><p>Begge albuer skal hvile på skrivebord eller armlæn i en ret vinkel ud fra kroppen, så skuldrene slapper af<\/p><\/li>\n<li><p>Computer eller computerskærm skal være placeret i øjenhøjde<\/p><\/li>\n<p><\/p>\n<li><p>Skift arbejdsstilling ofte og veksel gerne mellem at stå og sidde<\/p><\/li>\n<\/ul>\n<\/div>",
+        "title": "Optimisez votre posture assise au bureau",
+        "text": "<p>Si vous souffrez de tensions au niveau du cou, des épaules ou du dos parce que votre travail est principalement sédentaire, ces 5 exercices de relaxation devraient vous permettre de les soulager et de les prévenir dans votre quotidien. Il peut également se révéler utile d'examiner les moyens d'optimiser votre posture lorsque vous êtes assis à un bureau.<\/p><p><\/p><p><strong>Suivez les conseils suivants pour  adopter une posture correcte à votre bureau :<\/strong><\/p><p>• Asseyez-vous avec le dos droit, poussez votre bassin vers l’avant et tirez vos épaules vers l’arrière. Vue de côté, la colonne vertébrale doit former un S.<\/p><p>• Les jambes et les genoux doivent former un angle de 90 degrés ou plus.<\/p><p>• Les deux coudes doivent reposer sur le bureau ou l'accoudoir à angle droit avec le corps, ce qui permet aux épaules de se détendre.<\/p><p>• L'écran de l'ordinateur doit être à la hauteur des yeux.<\/p><p>• Changez fréquemment de position de travail et alternez entre la position debout et la position assise.<\/p>",
         "button_style": "btn--primary",
         "button_label": "",
         "button_link": ""
@@ -98,7 +97,7 @@
           "type": "html",
           "settings": {
             "title": "",
-            "code": "<div style=\"margin-bottom:-80px\">\n<h2>Holdningskorrigerende produkter til kontorarbejde<\/h2>\n<p>Hos Anodyne® tilbyder vi produkter inden for holdningskorrektion, aflastning og generel kropssundhed. Vores produkter har til formål at øge kropsholdningsbevidstheden, aflaste og støtte kroppen i dagligdagen, lindre smerter og spændinger, samt øge dagligt velvære. Kropssundheden er i fokus, og det er derfor vigtigt at fastslå, at vi altid anbefaler at bruge produkterne som et supplement til en aktiv livsstil, da motion og bevægelse er fundamentalt for kroppens sundhed..<\/p>\n<\/div>",
+            "code": "<div style=\"margin-top:-30px\">\n<h2>Produits correcteurs de posture pour le bureau<\/h2>\n<p>Chez Anodyne®, nous proposons des produits pour la correction de la posture, la relaxation et la santé générale du corps. Nos produits visent à soutenir le corps et à accroître la conscience de la posture dans la vie quotidienne, ainsi qu'à soulager les douleurs et les tensions pour que vous profitiez d’une meilleure qualité de vie.<\/p>\n<p><\/p>\n<\/div>",
             "column_width": 12,
             "column_width_mobile": 12,
             "text_alignment": "text-center"
@@ -121,17 +120,16 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "image": "shopify:\/\/shop_images\/Belt_500x330_995774e2-41ce-4644-bb78-e58978635d61.jpg",
         "image_link": "shopify:\/\/collections\/rygstoette",
         "section_style": "section-blank",
         "text_size": "medium",
         "image_alignement": "left",
         "text_alignment": "",
-        "title": "Aflast ryg og lænd med Skulderstøtte eller Lændebælte",
-        "text": "<p>Ryggen er særligt udsat, når vi sidder meget ned, og derfor kan det være en fordel at aflaste ryg og skuldre i løbet af arbejdsdagen. Hos Anodyne® tilbyder vi en række produkter til rygstøtte, heriblandt vores <em>skulderstøtter<\/em> og <em>lændebælte<\/em>. Begge produkter er ideelle redskaber til at forebygge og behandle smerter og spændinger, og de fungerer som hjælpemidler til at støtte og aflaste muskulaturen, når der opstår et akut behov.<\/p><p>Vores <a href=\"https:\/\/codebeautify.org\/collections\/skulderstoette\"><span style=\"text-decoration:underline\">skulderstøtter<\/span><\/a> fremmer en god holdning, når du har produktet på, og kan med fordel anvendes ved smerter og spændinger i nakke, skulder og øvre ryg. Skulderbladene trækkes tilbage på plads, hvorved skuldre og øvre ryg aflastes. <a href=\"https:\/\/codebeautify.org\/products\/laendebaelte\"><span style=\"text-decoration:underline\">Lændebæltet<\/span><\/a> kan med fordel anvendes, hvis man døjer med smerter eller spændinger i lænden. Lændebæltet støtter og aflaster muskler og led, mens presset på musklerne mindskes, og samtidig bidrager det til et øget fokus på holdningen omkring lænden.<\/p>",
-        "button_style": "",
-        "button_label": "Se udvalg",
-        "button_link": "shopify:\/\/collections\/rygstoette"
+        "title": "Soulagez votre dos et bas du dos avec une épaulière ou une ceinture lombaire",
+        "text": "<p>Notre dos est particulièrement vulnérable lorsque nous passons beaucoup de temps assis, c'est pourquoi il est bénéfique de soulager notre dos et nos épaules pendant notre journée de travail. Chez Anodyne®, nous proposons une gamme de produits de soutien du dos, notamment des épaulières et des ceintures lombaires. Ces deux produits sont des outils idéaux pour prévenir et traiter les douleurs et les tensions ; ils agissent comme des aides pour soutenir et soulager la musculature lorsqu'un besoin aigu se fait sentir.<\/p><p>Nos épaulières contribuent à améliorer la posture tant que vous la portez ; elles peuvent être utilisées en cas de douleurs et de tensions dans le cou, les épaules et le haut du dos. Les<br\/>omoplates sont remises en place, ce qui soulage la pression sur les épaules et le haut du dos. La ceinture lombaire est également efficace si vous souffrez de douleurs ou de tensions dans le bas du dos. Elle réduit la pression appliquée sur les muscles et permet d’améliorer la posture au niveau de la région lombaire.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Voir la sélection",
+        "button_link": "shopify:\/\/collections\/soutien-du-dos"
       }
     },
     "16637496063027e35a": {
@@ -139,16 +137,15 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "image": "shopify:\/\/shop_images\/Posture-Shirt_500x330_97e93c41-6f0c-41da-b71e-4a970c3d343b.jpg",
         "image_link": "shopify:\/\/collections\/posture-shirt",
         "section_style": "section-default",
         "text_size": "medium",
         "image_alignement": "right",
         "text_alignment": "",
-        "title": "Forebyg spændinger med en holdningskorrigerende trøje",
-        "text": "<p>Er kropsholdningen optimal, når man sidder ned, kan man i langt de fleste tilfælde undgå at få smerter eller spændinger i nakken og ryggen. Men det er svært hele tiden at huske på at rette ryggen op. Ønsker man hjælp til at huske den gode kropsholdning, er vores<a href=\"https:\/\/codebeautify.org\/collections\/posture-shirt\/\"><span style=\"text-decoration:underline\">Posture Shirt™<\/span><\/a>et oplagt valg. De integrerede støttebånd på ryggen, som kaldes NeuroBands™, trækker let i skuldrene, så man bliver mindet om, at de skal trækkes tilbage på plads. Posture Shirt™ fungerer således som en påmindelse om at aktivere muskulaturen i øvre ryg, hvilket gør det nemmere at huske at rette ryggen op i løbet af dagen og gøre den gode kropsholdning til en vane. På den måde kan den også forebygge spændinger og smerter i dagligdagen, fordi kroppen undgår at falde sammen.<\/p>",
-        "button_style": "",
-        "button_label": "Se udvalg",
+        "title": "Prévenez les tensions posturales avec un t-shirt correcteur de posture",
+        "text": "<p>Une posture optimale en position assise peut, dans la grande majorité des cas, prévenir les douleurs ou les tensions dans la zone du cou et du dos. Cependant, il peut être difficile de penser à surveiller et à corriger sa posture tout au long de la journée. Si vous avez besoin d’aide pour vous rappeler à la vérifier, notre Posture Shirt™ est un choix idéal. Les bandes de soutien intégrées dans le dos, appelées NeuroBands™, tirent doucement sur les épaules, vous rappelant que ceux-ci s’affaissent et qu’il faut donc les repositionner. Notre Posture Shirt™ agit comme un rappel ; il vous est ainsi plus facile de penser à redresser votre dos tout au long de la journée et de faire de la bonne posture une habitude.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Voir la sélection",
         "button_link": "shopify:\/\/collections\/posture-shirt"
       }
     },
@@ -163,11 +160,11 @@
         "text_size": "medium",
         "image_alignement": "left",
         "text_alignment": "",
-        "title": "Optimér siddestillingen med ergonomiske produkter",
-        "text": "<p>Vi forhandler også et udvalg af produkter, der fremmer ergonomien og arbejdsstillingen ved skrivebordet, heriblandt vores <em>rygpude<\/em> og støttesædet <em>BackJoy Posture+<\/em>. Begge produkter er med til at forebygge smerter og spændinger i lænden, som nemt kan opstå, når man har et primært stillesiddende arbejde.<\/p><p><br\/>Vores <a href=\"https:\/\/codebeautify.org\/products\/ergonomisk-rygpude\/\"><span style=\"text-decoration:underline\">Rygpude<\/span><\/a> giver lænden god støtte, mindsker presset på de nedre rygmuskler og får det naturlige lændesvaj frem. <a href=\"https:\/\/codebeautify.org\/products\/backjoy-posture\"><span style=\"text-decoration:underline\">BackJoy Posture+<\/span><\/a> fremmer også en korrekt siddestilling, idet bækkenet skubbes frem, og rygsøjlen placeres i sin ideelle S-kurve. Brug produkterne ved skrivebordet, spisebordet, i sofaen, i bilen, og hvor du ellers har brug for ekstra lændestøtte.<\/p>",
-        "button_style": "",
-        "button_label": "Se udvalg",
-        "button_link": "shopify:\/\/collections\/andre-produkter"
+        "title": "Optimise sitting posture with ergonomic products",
+        "text": "<p>We also offer a range of products that specifically helps with your posture at the desk, including our BackJoy Posture+, Support Seat and Back Pillow. All products help to prevent lower back pain and tension, which can easily occur in a primarily sedentary job.<\/p><p>The products provides good lumbar support, reduces pressure on the lower back muscles and brings out the natural lumbar sway by pushing the pelvis forward. Use the products at your desk, dining table, on the sofa, in the car, and anywhere else you need extra lumbar support.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "View selection",
+        "button_link": "shopify:\/\/collections\/autres-produits"
       }
     }
   },

@@ -1,0 +1,217 @@
+{
+  "sections": {
+    "main": {
+      "type": "featured-image-landing",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Artboard_2.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>Une posture saine<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "16647948994e9dbd06": {
+      "type": "mission",
+      "blocks": {
+        "1664794899702cf6a9-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<h1 style=\"margin-top:3rem\">Les bienfaits d’une bonne posture<\/h1><p>La plupart d'entre nous savent qu'une bonne posture est importante, que nous soyons assis, debout ou en mouvement. Mais pourquoi ? Il existe de nombreuses raisons pour lesquelles vous devez vous préoccuper de votre posture. Voici les six principaux bienfaits physiques et mentaux d'une bonne posture :<\/p>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664794899702cf6a9-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1664795243d73cf36a": {
+      "type": "custom-html",
+      "blocks": {
+        "1664795243efbb0bd2-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Soulage la douleur<\/h2>\n<p>Une posture saine peut soulager les tensions dans le dos, les épaules et le cou.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "d1930215-6479-417b-9036-d39f75a45936": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Prévient les blessures <\/h2>\n<p>Elle contribue à prévenir les éventuels problèmes de douleur futurs.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "8d6c7af8-62c5-40b0-93a6-1bd72b288f78": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Apaise le corps<\/h2>\n<p>Elle détend les groupes de muscles sollicités et soulage les tensions dans le dos.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "3cb78f0e-8a84-4138-844b-e2603861beb6": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/bLg6Mnn\/Smile.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Améliore l’humeur <\/h2>\n<p>Une posture saine contribue à une meilleure humeur et à davantage d'énergie dans la vie quotidienne.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "52bd17d9-2d63-4641-b765-34479faf57b8": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/KV56kZB\/Radiance.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Améliore l’apparence<\/h2>\n<p>Une bonne posture améliore notre allure et laisse une bonne impression.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "df5c47af-f588-44d8-b419-28c2ca6ce013": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BsTXCGL\/Confidence.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Augmente la confiance<\/h2>\n<p>Une posture saine nous donne plus d'assurance.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1664795243efbb0bd2-0",
+        "d1930215-6479-417b-9036-d39f75a45936",
+        "8d6c7af8-62c5-40b0-93a6-1bd72b288f78",
+        "3cb78f0e-8a84-4138-844b-e2603861beb6",
+        "52bd17d9-2d63-4641-b765-34479faf57b8",
+        "df5c47af-f588-44d8-b419-28c2ca6ce013"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1664798312adda7dc6": {
+      "type": "featured-columns",
+      "blocks": {
+        "16647983129a6174fc-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Traening.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Exercice et musculation",
+            "text": "<p>Les muscles tendus et faibles sont souvent la raison d'une mauvaise posture ; ils peinent en effet à maintenir le haut du corps en place. C'est pourquoi les exercices d'étirement et de musculation sont un bon moyen d'améliorer votre posture. Si vous avez besoin d'exercices faciles à intégrer dans votre quotidien, suivez la vidéo d’exercices simples et efficaces que nous avons récemment produite en collaboration avec le chiropracteur Michael Justad.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "Regarder la vidéo",
+            "button_link": "shopify:\/\/pages\/exercices-de-tension"
+          }
+        },
+        "16647983129a6174fc-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Image_woman_and_man_0003_720x480_c20e59c0-6e3f-42bb-979f-f448cb1d97d8.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Vêtements correcteurs de posture",
+            "text": "<p>Prises dans leur routine quotidienne, de nombreuses personnes oublient de surveiller leur posture, c’est pourquoi les vêtements correcteurs de posture s’avèrent une solution très populaire. Notre produit le plus vendu est le Posture Shirt™. Celui-ci opère une légère traction sur la bandoulière pour vous pensiez à vous redresser lorsque vos épaules commencent à s'affaisser. La souplesse du Posture Shirt le rend efficace et confortable à porter, aussi bien en position assise que lors d'une activité physique.<\/p>",
+            "button_style": "",
+            "button_label": "Voir la sélection",
+            "button_link": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "16647983129a6174fc-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mand_i_sofa_med_skulderstotte_720x480_3b5e054c-30f1-434b-b2a7-674c10bf6bcb.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Autres produits correcteurs de posture",
+            "text": "<p>Outre notre Posture Shirt™, nous proposons une variété de produits visant à corriger votre posture, tels que des épaulières, des ceintures lombaires et des coussins dorsaux. Ces produits peuvent être utilisés dans des situations assises et debout, à savoir dans des positions où les mouvements du corps sont limités - par exemple, assis à un bureau, sur le canapé ou lorsque vous cuisinez.<\/p>",
+            "button_style": "",
+            "button_label": "Voir la sélection",
+            "button_link": "shopify:\/\/collections\/soutien-du-dos"
+          }
+        }
+      },
+      "block_order": [
+        "16647983129a6174fc-0",
+        "16647983129a6174fc-1",
+        "16647983129a6174fc-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "text_align": ""
+      }
+    },
+    "166479832395dbda3c": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Best-sellers",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "tous-les-produits",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16647948994e9dbd06",
+    "1664795243d73cf36a",
+    "1664798312adda7dc6",
+    "166479832395dbda3c"
+  ]
+}

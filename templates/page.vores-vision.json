@@ -6,10 +6,10 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "full_width": true,
-        "image": "shopify:\/\/shop_images\/Vision_bd4a16a0-3599-4edb-a4e6-f24ab31ed395.jpg",
+        "image": "shopify:\/\/shop_images\/Vision.jpg",
         "section_style": "section-blank",
         "wrapper__height": 360,
-        "image_title": "<p><strong>Vores vision<\/strong><\/p>",
+        "image_title": "<p><strong>Notre vision<\/strong><\/p>",
         "image_subtitle": "",
         "image_btntext": "",
         "image_link": "",
@@ -23,7 +23,7 @@
           "type": "html",
           "settings": {
             "mission_title": "",
-            "mission_description": "<div style=\"margin:2rem 0;\">\n<h1>Vi vil gøre en forskel<\/h1>\n<p>For mange er en sund kropsholdning vejen til et bedre liv. Uanset om man døjer med periodevise spændinger ved skrivebordet eller lider af kroniske smerter, er en sund kropsholdning noget, der kan være med til at lette hverdagen. Derfor tager vi vores kunder og deres situation seriøst og arbejder benhårdt for at hjælpe dem med at forbedre deres kropsholdning.<\/p>\n<\/div>",
+            "mission_description": "<div style=\"margin:2rem 0;\">\n<h1><\/h1>\n<h1>Nous voulons faire une différence<\/h1>\n<p>Pour un grand nombre de personnes, une posture plus saine mène à une vie meilleure. Que vous souffriez de tensions occasionnelles ou de douleurs chroniques, une posture saine vous permet de soulager l'inconfort quotidien. C'est pourquoi nous prenons la condition de nos clients au sérieux et travaillons dur à la conception de solutions visant à améliorer la posture.<\/p>\n<\/div>",
             "column_width": 12,
             "column_width_mobile": 12,
             "text_alignment": "text-center",
@@ -50,7 +50,7 @@
           "type": "html",
           "settings": {
             "title": "",
-            "code": "<div style=\"padding-left:55px; padding-right:55px;\">\n<img src=\"https:\/\/i.ibb.co\/n1XdwZ4\/Purpose2.gif\" style=\"max-width:100px; width:100%\">\n<h2>Formål<\/h2>\n<p>Vi eksisterer for at forbedre kropsholdning, lindre smerter og øge livskvaliteten for vores kunder.<\/p>\n<\/div>",
+            "code": "<div style=\"padding-left:55px; padding-right:55px;\">\n<img src=\"https:\/\/i.ibb.co\/n1XdwZ4\/Purpose2.gif\" style=\"max-width:100px; width:100%\">\n<h2>Objectif<\/h2>\n<p>Chacune de nos conceptions vise à améliorer la posture, à soulager la douleur et à optimiser la qualité de vie de nos clients.<\/p>\n<\/div>",
             "column_width": 6,
             "column_width_mobile": 12,
             "text_alignment": "text-center"
@@ -60,7 +60,7 @@
           "type": "html",
           "settings": {
             "title": "",
-            "code": "<div style=\"padding-left:55px; padding-right:55px;\">\n<img src=\"https:\/\/i.ibb.co\/FgjcrpD\/Ambition2.gif\" style=\"max-width:100px; width:100%\">\n<h2>Ambition<\/h2>\n<p>Vi vil være den mest pålidelige og foretrukne leverandør af effektivt holdningskorrigerende tøj i hele Europa..<\/p>\n<\/div>",
+            "code": "<div style=\"padding-left:55px; padding-right:55px;\">\n<img src=\"https:\/\/i.ibb.co\/FgjcrpD\/Ambition2.gif\" style=\"max-width:100px; width:100%\">\n<h2>Ambition<\/h2>\n<p>Nous aspirons à être le plus fiable et le plus apprécié fournisseur de vêtements correcteurs de posture au sein de l’Europe.<\/p>\n<\/div>",
             "column_width": 6,
             "column_width_mobile": 12,
             "text_alignment": "text-center"
@@ -85,33 +85,33 @@
         "1663677295ba56017e-0": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Integrity.png",
-            "title": "Bevar integriteten",
-            "text": "<p>Vi er respektfulde og ærlige overfor vores kunder.<\/p>"
+            "image": "shopify:\/\/shop_images\/Integrity_180x180_c199f034-70ae-4f5b-b013-f25b2ec7a294.png",
+            "title": "Maintien de l’intégrité",
+            "text": "<p>Nous sommes respectueux et honnêtes envers nos clients.<\/p>"
           }
         },
         "1663677295ba56017e-1": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Quality.png",
-            "title": "Fokus på kvalitet",
-            "text": "<p>Vores produkter virker og holder i mange år.<\/p>"
+            "image": "shopify:\/\/shop_images\/Quality_180x180_d59f1705-92a5-4f7a-a96e-0149a4608c66.png",
+            "title": "Focus sur la qualité",
+            "text": "<p>Nos produits sont efficaces et durent des années.<\/p>"
           }
         },
         "1663677295ba56017e-2": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Target.png",
-            "title": "Gør det enkelt",
-            "text": "<p>Vi gør det nemt at finde det helt rigtige produkt.<\/p>"
+            "image": "shopify:\/\/shop_images\/Target_180x181_d320df5f-c604-4db6-926f-f4f4ac3e9190.png",
+            "title": "Simplification",
+            "text": "<p>Nous faisons en sorte qu’il vous soit facile de trouver le bon produit.<\/p>"
           }
         },
         "f97af3f9-1518-4821-bef4-2273e327c1e4": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Feedback.png",
-            "title": "Lyt til kunden",
-            "text": "<p>Vi holder fingeren på pulsen og lytter til vores kunders feedback.<\/p>"
+            "image": "shopify:\/\/shop_images\/Feedback_180x180_684e9bb3-8583-4760-9e2d-fdb8b26b2dd3.png",
+            "title": "Écoute des clients",
+            "text": "<p>Nous nous adaptons au marché et considérons les commentaires des clients.<\/p>"
           }
         }
       },
@@ -124,8 +124,8 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Vores værdier",
-        "subtitle": "Hos Anodyne har vi fire kerneværdier, som guider alle vores beslutninger og sikrer, at vi altid leverer den samme gode service.",
+        "title": "Nos valeurs",
+        "subtitle": "Anodyne® repose sur quatre valeurs fondamentales qui guident chacune de nos décisions et garantissent une qualité de service similaire et constante.",
         "section_style": "section-default",
         "text_align": "text-center"
       }
@@ -135,10 +135,10 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Mest solgte",
+        "title": "Best-sellers",
         "subtitle": "",
         "section_style": "section-blank",
-        "home_featured_products": "posture-shirt",
+        "home_featured_products": "tous-les-produits",
         "rows": "2",
         "desktop_grid": "4",
         "mobile_grid": "2",
