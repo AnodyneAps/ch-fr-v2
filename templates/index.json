@@ -18,7 +18,7 @@
         "second_button_link": "shopify:\/\/collections\/homme",
         "show_scrolldown": true,
         "show_emark": true,
-        "bottom_counter_text": "Wir versenden Ihr Paket in",
+        "bottom_counter_text": "Nous envoyons votre commande en",
         "show_bottom_counter": true
       }
     },
@@ -132,16 +132,16 @@
             "code": "<p>Grâce aux<a href=\"https:\/\/fr.anodyne.ch\/\"><span style=\"text-decoration:underline\">vêtements correcteurs de posture<\/span><\/a>d'Anodyne®, vous pouvez facilement améliorer votre posture et réduire les douleurs et les tensions dans la nuque, les épaules et le dos. Les vêtements de posture Anodyne® pour hommes et femmes vous aident à prendre conscience de votre posture et à vous rappeler de garder le dos droit. Ils peuvent être utilisés aussi bien au bureau, en voyage, en conduisant, à la maison, qu'en étant actif, que ce soit au travail ou lors d'un entraînement sportif. Anodyne® est le fabricant et distributeur européen de vêtements correcteurs de posture dotés de la technologie développée par la société américaine AlignMed - le seul fabricant de vêtements de posture au monde enregistré auprès de l'agence américaine des produits alimentaires et médicamenteux (FDA). Les vêtements correcteurs de posture Anodyne® sont les seuls en Europe à être à la fois enregistrés auprès de la FDA et à avoir la déclaration CE de conformité en tant que dispositifs médicaux (classe I), ce qui garantit que nos produits répondent aux exigences relatives aux dispositifs médicaux.<\/p>",
             "text_alignment": "text-center",
             "status1_number": "+100.000",
-            "status1_label": "Zufriedene Kunden",
+            "status1_label": "Clients satisfaits",
             "status1_link": "shopify:\/\/collections\/all",
             "status2_number": "+500.000",
-            "status2_label": "Weltweit verkaufte Produkte",
+            "status2_label": "Produits vendus dans le monde",
             "status2_link": "shopify:\/\/collections\/all",
             "status3_number": "+8",
-            "status3_label": "Jahre Erfahrung",
+            "status3_label": "Ans d'expérience",
             "status3_link": "shopify:\/\/collections\/all",
             "status4_number": "+80",
-            "status4_label": "Verfügbare Produkte",
+            "status4_label": "Produits disponibles",
             "status4_link": "shopify:\/\/collections\/all",
             "vendor_image_position": "center center",
             "vendor_text": ""
@@ -254,7 +254,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Checkmark.png",
             "title": "Le vêtement correcteur de posture original",
-            "text": "<p>Les véritables<a href=\"https:\/\/fr.anodyne.ch\/collections\/tous-les-produits\" title=\"Tous les produits\"><span style=\"text-decoration:underline\">vêtements de posture<\/span><\/a>Anodyne® ne peuvent être achetés que sur <a href=\"https:\/\/fr.anodyne.ch\/\" title=\"https:\/\/fr.anodyne.ch\/\"><span style=\"text-decoration:underline\">www.fr.anodyne.ch<\/span><\/a>. Sachez qu'il existe de nombreux produits contrefaits et peu recommandables sur le marché. Un seul type de vêtement de posture est enregistré auprès de la FDA (Agence américaine des produits alimentaires et médicamenteux) et marquée CE comme dispositif médical, ce sont les produits vendus par Anodyne® - soyez donc vigilant lorsque vous commandez sur internet.<\/p>"
+            "text": "<p>Les véritables<a href=\"https:\/\/fr.anodyne.ch\/collections\/tous-les-produits\" title=\"Tous les produits\"><span style=\"text-decoration:underline\">vêtements de posture <\/span><\/a>Anodyne® ne peuvent être achetés que sur <a href=\"https:\/\/fr.anodyne.ch\/\" title=\"https:\/\/fr.anodyne.ch\/\"><span style=\"text-decoration:underline\">www.fr.anodyne.ch<\/span><\/a>. Sachez qu'il existe de nombreux produits contrefaits et peu recommandables sur le marché. Un seul type de vêtement de posture est enregistré auprès de la FDA (Agence américaine des produits alimentaires et médicamenteux) et marquée CE comme dispositif médical, ce sont les produits vendus par Anodyne® - soyez donc vigilant lorsque vous commandez sur internet.<\/p>"
           }
         },
         "16595128814be99d47-1": {
@@ -270,7 +270,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Kinesio.png",
             "title": "Du kinésio tape au vêtement",
-            "text": "<p><a href=\"https:\/\/anodyne-ch.myshopify.com\/fr\/collections\/\" title=\"Alle Produkte\"><span style=\"text-decoration:underline\">Les vêtements de posture<\/span><\/a>Anodyne® activent les muscles du dos, les épaules et les omoplates sans vous rendre passif ni bloquer vos muscles et vos articulations ou limiter vos mouvements. La technologie derrière ces vêtements redresseurs de dos est inspirée du kinesiotape, une méthode de traitement souvent utilisée par les kinésithérapeutes et les chiropratceurs pour traiter la douleur et les tensions dans la nuque, les épaules et le dos. Le kinesiotaping est également fréquemment utilisé par les athlètes professionnels pour stimuler des groupes musculaires spécifiques et améliorer la posture.<\/p>"
+            "text": "<p><a href=\"https:\/\/anodyne-ch.myshopify.com\/fr\/collections\/\" title=\"Alle Produkte\"><span style=\"text-decoration:underline\">Les vêtements de posture<\/span><\/a> Anodyne® activent les muscles du dos, les épaules et les omoplates sans vous rendre passif ni bloquer vos muscles et vos articulations ou limiter vos mouvements. La technologie derrière ces vêtements redresseurs de dos est inspirée du kinesiotape, une méthode de traitement souvent utilisée par les kinésithérapeutes et les chiropratceurs pour traiter la douleur et les tensions dans la nuque, les épaules et le dos. Le kinesiotaping est également fréquemment utilisé par les athlètes professionnels pour stimuler des groupes musculaires spécifiques et améliorer la posture.<\/p>"
           }
         }
       },
@@ -294,8 +294,9 @@
         "1659513083303253a7-0": {
           "type": "video",
           "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/Thumbnail_Anodyne-min-min_1920x1080_5ea6291f-659e-4185-b3d9-e7c6f0184541.jpg",
             "title": "",
-            "video_url": "https:\/\/youtu.be\/c3tAK7gGKbo",
+            "video_url": "https:\/\/youtu.be\/ttlT7yb1u9I",
             "animated_button": true
           }
         }

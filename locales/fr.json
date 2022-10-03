@@ -529,12 +529,12 @@
       "close": "Fermer (Esc)"
     },
     "tabs": {
-      "tab-description": "Beskrivelse",
-      "tab-medical": "Teknologi",
-      "tab-use": "Anvendelse",
+      "tab-description": "DESCRIPTION",
+      "tab-medical": "TECHNOLOGIE",
+      "tab-use": " UTILISATION DU PRODUIT",
       "tab-manual": "Brugsvejledning",
       "tab-material": "Materialer",
-      "tab-delivery": "Levering og fragt"
+      "tab-delivery": "LIVRAISON ET RETOUR"
     },
     "radios": {
       "radio-one": "",

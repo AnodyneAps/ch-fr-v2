@@ -75,7 +75,7 @@
       "type": "product-recommendations",
       "settings": {
         "show_product_recommendations": true,
-        "title": "Für Sie empfohlen",
+        "title": "Recommandé pour vous",
         "subtitle": "",
         "section_style": "section-border",
         "rows": "2",
