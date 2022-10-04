@@ -56,12 +56,13 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "image": "shopify:\/\/shop_images\/Working_posture_1296x1296_5c41df7c-f75d-419f-8961-490c16d295b4.jpg",
+        "image_link": "",
         "section_style": "section-blank",
         "text_size": "large",
         "image_alignement": "right",
         "text_alignment": "",
         "title": "Optimisez votre posture assise au bureau",
-        "text": "<p>Si vous souffrez de tensions au niveau du cou, des épaules ou du dos parce que votre travail est principalement sédentaire, ces 5 exercices de relaxation devraient vous permettre de les soulager et de les prévenir dans votre quotidien. Il peut également se révéler utile d'examiner les moyens d'optimiser votre posture lorsque vous êtes assis à un bureau.<\/p><p><\/p><p><strong>Suivez les conseils suivants pour  adopter une posture correcte à votre bureau :<\/strong><\/p><p>• Asseyez-vous avec le dos droit, poussez votre bassin vers l’avant et tirez vos épaules vers l’arrière. Vue de côté, la colonne vertébrale doit former un S.<\/p><p>• Les jambes et les genoux doivent former un angle de 90 degrés ou plus.<\/p><p>• Les deux coudes doivent reposer sur le bureau ou l'accoudoir à angle droit avec le corps, ce qui permet aux épaules de se détendre.<\/p><p>• L'écran de l'ordinateur doit être à la hauteur des yeux.<\/p><p>• Changez fréquemment de position de travail et alternez entre la position debout et la position assise.<\/p>",
+        "html_text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
         "button_style": "btn--primary",
         "button_label": "",
         "button_link": ""
@@ -120,6 +121,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Lumbar.jpg",
         "image_link": "shopify:\/\/collections\/rygstoette",
         "section_style": "section-blank",
         "text_size": "medium",
@@ -137,6 +139,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt.jpg",
         "image_link": "shopify:\/\/collections\/posture-shirt",
         "section_style": "section-default",
         "text_size": "medium",

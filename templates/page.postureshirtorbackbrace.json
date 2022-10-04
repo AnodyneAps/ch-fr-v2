@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "1664867004ad2e5596": {
+      "type": "custom-html",
+      "blocks": {
+        "1664867004f6774025-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<h1>Posture Shirt ou Soutien Dorsal ?<\/h1><p>Vous n’arrivez pas à faire votre choix entre un Posture Shirt™ et un Soutien dorsal ? Sur cette page, vous pouvez en savoir plus sur les différences et les similitudes entre les deux produits.<\/p>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1664867004f6774025-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1664866999e0fdbbf0": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/ps.png",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Pourquoi choisir un Posture Shirt™ ?",
+        "text": "<p>Choisissez un Posture Shirt™ si vous désirez un produit de grand confort qui offre un soutien tout au long de la journée.<\/p><p>Améliore la posturePermet de prendre conscience de sa postureActive les musclesOffre une grande liberté de mouvementEffet documenté sur le soulagement des douleurs et des tensionsDispositif médical (classe 1)<br\/>Peut être utilisé <strong>toute la journée<\/strong> (accoutumance progressive):<\/p><p>Position assisePosition deboutLors d’une activité physique<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Achetez un Posture Shirt™",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "16648673794382e0f9": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Mand_i_sofa_med_skulderstotte_720x480_3b5e054c-30f1-434b-b2a7-674c10bf6bcb.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Pourquoi choisir un soutien dorsal ?",
+        "text": "<p>Choisissez un soutien dorsal si vous désirez un produit que vous pouvez utiliser pendant des périodes relativement courtes tout au long de la journée.<\/p><p>Améliore la postureStabilise et soulagePeut soulager les douleurs et les tensions<\/p><p>Peut être utilisé entre <strong>30 et 60 minutes<\/strong> selon les besoins:<\/p><p>Position assisePosition debout<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Achetez un soutien dorsal",
+        "button_link": "shopify:\/\/collections\/soutien-du-dos"
+      }
+    }
+  },
+  "order": [
+    "1664867004ad2e5596",
+    "1664866999e0fdbbf0",
+    "16648673794382e0f9"
+  ]
+}
