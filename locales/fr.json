@@ -499,7 +499,8 @@
   },
   "products": {
     "general": {
-      "save_html": "Enregistrer {{ saved_amount }}",
+      "save_html": "Enregistrer",
+      "saved_amount_nums": "{{ saved_amount }}",
       "collection_return": "Retour à {{ collection }}",
       "sale_price": "Prix de vente",
       "regular_price": "Prix habituel",
@@ -538,10 +539,16 @@
     },
     "radios": {
       "radio-one": "",
-      "radio-save-amount": "Spar"
+      "radio-save-amount": "Économisez"
     },
     "sizes": {
-      "choose-size-message": "Husk at vælge størrelse"
+      "choose-size-message": "N'oubliez pas de choisir la taille"
+    },
+    "counter": {
+      "days": "Jours",
+      "hours": "Heures",
+      "minutes": "Minutes",
+      "seconds": "Secondes"
     }
   },
   "gift_cards": {
