@@ -27,17 +27,17 @@
     "816ec807-68c0-491f-a13c-33badf133dba": {
       "type": "hero-blackdays",
       "settings": {
-        "style__selector": "black",
+        "style__selector": "none",
         "page_width": "full_width",
         "height": "medium",
         "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
         "show_overlay": true,
         "image": "shopify:\/\/shop_images\/Skaermbillede_2022-01-31_kl._10.44.09.png",
         "image_position": "center center",
-        "video_title": "<span class=\"first\">Anodyne®<\/span>",
+        "video_title": "<strong><span class=\"first\">Anodyne®<\/span><\/strong>",
         "svg_selector": "none",
         "text_size": "medium",
-        "text_description": "<p>Améliorez votre posture et réduisez les douleurs dorsales<\/p>",
+        "text_description": "<p><strong>Améliorez votre posture et réduisez les douleurs dorsales<\/strong><\/p>",
         "text_description_size": "medium",
         "button_label": "Homme",
         "button_link": "shopify:\/\/collections\/homme",
@@ -45,8 +45,8 @@
         "second_button_link": "shopify:\/\/collections\/femme",
         "show_scrolldown": true,
         "show_emark": true,
-        "bottom_counter_text": "Black Days commence dans:",
-        "date__selector": "2022-11-15 23:59:59",
+        "bottom_counter_text": "Nous emballons votre commande dans:",
+        "date__selector": "none",
         "show_bottom_counter": true
       }
     },
@@ -59,7 +59,7 @@
             "title": "Livraison rapide",
             "description": "Livraison gratuite plus de 59 CHF",
             "icon": "shopify:\/\/shop_images\/Truck.png",
-            "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+            "uspLinkUrl": "shopify:\/\/pages\/livraison-et-retour"
           }
         },
         "1656942069c276e07d-1": {
@@ -68,7 +68,7 @@
             "title": "Retour et échanges gratuits",
             "description": "Nous incluons une étiquette de retour gratuite",
             "icon": "shopify:\/\/shop_images\/Returns.png",
-            "uspLinkUrl": "shopify:\/\/pages\/returportal"
+            "uspLinkUrl": "shopify:\/\/pages\/livraison-et-retour"
           }
         },
         "342df7ed-a5e0-495e-b2aa-88ec2359c324": {
@@ -77,7 +77,7 @@
             "title": "Politique de retours sous 14 jours",
             "description": "Vous pouvez librement tester votre produit et vérifier s'il répond à vos attentes",
             "icon": "shopify:\/\/shop_images\/Checkmark.png",
-            "uspLinkUrl": "https:\/\/www.anodyne.dk\/pages\/hvem-er-vi"
+            "uspLinkUrl": "shopify:\/\/pages\/livraison-et-retour"
           }
         },
         "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70": {
@@ -86,7 +86,7 @@
             "title": "Service professionnel",
             "description": "Appelez-nous ou contactez-nous par e-mail",
             "icon": "shopify:\/\/shop_images\/Customerservice.png",
-            "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+            "uspLinkUrl": "shopify:\/\/pages\/contact"
           }
         }
       },
@@ -157,20 +157,20 @@
           "type": "Profile-Text",
           "settings": {
             "title": "Pourquoi choisir les vêtements de posture Anodyne® ?",
-            "code": "<p>Grâce aux<a href=\"https:\/\/fr.anodyne.ch\/\"><span style=\"text-decoration:underline\">vêtements correcteurs de posture<\/span><\/a>d'Anodyne®, vous pouvez facilement améliorer votre posture et réduire les douleurs et les tensions dans la nuque, les épaules et le dos. Les vêtements de posture Anodyne® pour hommes et femmes vous aident à prendre conscience de votre posture et à vous rappeler de garder le dos droit. Ils peuvent être utilisés aussi bien au bureau, en voyage, en conduisant, à la maison, qu'en étant actif, que ce soit au travail ou lors d'un entraînement sportif. Anodyne® est le fabricant et distributeur européen de vêtements correcteurs de posture dotés de la technologie développée par la société américaine AlignMed - le seul fabricant de vêtements de posture au monde enregistré auprès de l'agence américaine des produits alimentaires et médicamenteux (FDA). Les vêtements correcteurs de posture Anodyne® sont les seuls en Europe à être à la fois enregistrés auprès de la FDA et à avoir la déclaration CE de conformité en tant que dispositifs médicaux (classe I), ce qui garantit que nos produits répondent aux exigences relatives aux dispositifs médicaux.<\/p>",
+            "code": "<p>Grâce aux <a href=\"https:\/\/fr.anodyne.ch\/\"><span style=\"text-decoration:underline\">vêtements correcteurs de posture<\/span><\/a> d'Anodyne®, vous pouvez facilement améliorer votre posture et réduire les douleurs et les tensions dans la nuque, les épaules et le dos. Les vêtements de posture Anodyne® pour hommes et femmes vous aident à prendre conscience de votre posture et à vous rappeler de garder le dos droit. Ils peuvent être utilisés aussi bien au bureau, en voyage, en conduisant, à la maison, qu'en étant actif, que ce soit au travail ou lors d'un entraînement sportif. Anodyne® est le fabricant et distributeur européen de vêtements correcteurs de posture dotés de la technologie développée par la société américaine AlignMed - le seul fabricant de vêtements de posture au monde enregistré auprès de l'agence américaine des produits alimentaires et médicamenteux (FDA). Les vêtements correcteurs de posture Anodyne® sont les seuls en Europe à être à la fois enregistrés auprès de la FDA et à avoir la déclaration CE de conformité en tant que dispositifs médicaux (classe I), ce qui garantit que nos produits répondent aux exigences relatives aux dispositifs médicaux.<\/p>",
             "text_alignment": "text-center",
             "status1_number": "+100.000",
             "status1_label": "Clients satisfaits",
-            "status1_link": "shopify:\/\/collections\/all",
+            "status1_link": "shopify:\/\/collections\/tous-les-produits",
             "status2_number": "+500.000",
             "status2_label": "Produits vendus dans le monde",
-            "status2_link": "shopify:\/\/collections\/all",
+            "status2_link": "shopify:\/\/collections\/tous-les-produits",
             "status3_number": "+8",
             "status3_label": "Ans d'expérience",
-            "status3_link": "shopify:\/\/collections\/all",
+            "status3_link": "shopify:\/\/collections\/tous-les-produits",
             "status4_number": "+80",
             "status4_label": "Produits disponibles",
-            "status4_link": "shopify:\/\/collections\/all",
+            "status4_link": "shopify:\/\/collections\/tous-les-produits",
             "vendor_image_position": "center center",
             "vendor_text": ""
           }
@@ -259,13 +259,14 @@
         "title": "Produits les plus vendus",
         "subtitle": "",
         "section_style": "section-blank",
+        "style__selector": "cyber",
         "home_featured_products": "posture-shirt",
         "rows": "2",
         "desktop_grid": "4",
         "mobile_grid": "2",
         "show_view_all": true,
         "button_label": "voir tous les produits",
-        "button_link": "shopify:\/\/collections\/alle-produkte",
+        "button_link": "shopify:\/\/collections\/tous-les-produits",
         "button_style": "btn--primary",
         "slider_related_products": true,
         "arrows": true,
@@ -298,7 +299,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Kinesio.png",
             "title": "Du kinésio tape au vêtement",
-            "text": "<p><a href=\"https:\/\/anodyne-ch.myshopify.com\/fr\/collections\/\" title=\"Alle Produkte\"><span style=\"text-decoration:underline\">Les vêtements de posture<\/span><\/a> Anodyne® activent les muscles du dos, les épaules et les omoplates sans vous rendre passif ni bloquer vos muscles et vos articulations ou limiter vos mouvements. La technologie derrière ces vêtements redresseurs de dos est inspirée du kinesiotape, une méthode de traitement souvent utilisée par les kinésithérapeutes et les chiropratceurs pour traiter la douleur et les tensions dans la nuque, les épaules et le dos. Le kinesiotaping est également fréquemment utilisé par les athlètes professionnels pour stimuler des groupes musculaires spécifiques et améliorer la posture.<\/p>"
+            "text": "<p><a href=\"\/collections\/posture-shirt\" title=\"Posture Shirt™\"><span style=\"text-decoration:underline\">Les vêtements de posture<\/span><\/a> Anodyne® activent les muscles du dos, les épaules et les omoplates sans vous rendre passif ni bloquer vos muscles et vos articulations ou limiter vos mouvements. La technologie derrière ces vêtements redresseurs de dos est inspirée du kinesiotape, une méthode de traitement souvent utilisée par les kinésithérapeutes et les chiropratceurs pour traiter la douleur et les tensions dans la nuque, les épaules et le dos. Le kinesiotaping est également fréquemment utilisé par les athlètes professionnels pour stimuler des groupes musculaires spécifiques et améliorer la posture.<\/p>"
           }
         }
       },
@@ -361,7 +362,7 @@
             "accordion__inner-title": "",
             "accordion__description": "Les vêtements de posture Anodyne® sont composés d’une association unique d'élasthanne, de polyester et de nylon, pour obtenir des produits solides et respirants qui conservent leur élasticité lors de l’utilisation et rendent le vêtement confortable. Le design utilise la technologie brevetée NeuroBand™, inspirée du kinesiotape - les fameuses bandes adhésives de kinésiologie - et basée sur des recherches scientifiques approfondies sur la physiologie humaine. Le vêtement est conçu pour refléter les propriétés de contraction et extension de la musculature, favorisant ainsi une posture adaptée.",
             "accordion__buttontext": "shop",
-            "accordion__LinkUrl": "shopify:\/\/collections\/alle-produkter"
+            "accordion__LinkUrl": "shopify:\/\/collections\/tous-les-produits"
           }
         },
         "3c3108af-7850-4cad-a838-88ed336c741f": {
@@ -371,7 +372,7 @@
             "accordion__inner-title": "",
             "accordion__description": "Les vêtements de posture Anodyne® peuvent être utilisés par tous. Nous vendons des t-shirts de posture, des brassières soutien de dos et des vestes correctrices de posture, tous conçus pour aider à activer les muscles et la circulation sanguine, rappelant ainsi au corps d'adopter une posture plus optimale. Les vêtements redresseurs de dos d'Anodyne® peuvent être portés à tout moment - au bureau, assis devant un écran, pendant le sport, lorsque vous faites des courses, de la randonnée, le ménage ou toute autres activité. Pour tirer le meilleur parti des vêtements de posture Anodyne®, nous vous recommandons de lire attentivement les instructions jointes à votre colis pour vous assurer d'avoir les conditions idéales pour obtenir un effet optimal de nos produits.",
             "accordion__buttontext": "shop",
-            "accordion__LinkUrl": "shopify:\/\/collections\/alle-produkter"
+            "accordion__LinkUrl": "shopify:\/\/collections\/tous-les-produits"
           }
         }
       },

@@ -76,6 +76,7 @@
         "title": "Mest solgte",
         "subtitle": "",
         "section_style": "section-default",
+        "style__selector": "none",
         "home_featured_products": "posture-shirt",
         "rows": "2",
         "desktop_grid": "4",
@@ -122,7 +123,7 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "image": "shopify:\/\/shop_images\/Lumbar.jpg",
-        "image_link": "shopify:\/\/collections\/rygstoette",
+        "image_link": "shopify:\/\/collections\/soutien-depaule",
         "section_style": "section-blank",
         "text_size": "medium",
         "image_alignement": "left",
@@ -154,6 +155,7 @@
     },
     "16637498776cfac0c7": {
       "type": "featured-row",
+      "disabled": true,
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,

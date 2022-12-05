@@ -499,7 +499,7 @@
   },
   "products": {
     "general": {
-      "save_html": "Enregistrer",
+      "save_html": "Économisez",
       "saved_amount_nums": "{{ saved_amount }}",
       "collection_return": "Retour à {{ collection }}",
       "sale_price": "Prix de vente",
@@ -566,5 +566,10 @@
   },
   "date_formats": {
     "month_day_year": "%a %b %d"
+  },
+  "customer_accounts": {
+    "address_form": {
+      "save": "Économisez"
+    }
   }
 }
